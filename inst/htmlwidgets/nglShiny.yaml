@@ -1,0 +1,9 @@
+dependencies:
+  - name: ngl
+    version: 1.2
+    src: htmlwidgets/lib
+    script: ngl.js
+
+
+
+
